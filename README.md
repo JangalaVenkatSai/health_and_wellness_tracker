@@ -1,6 +1,7 @@
 # Health and Wellness Tracker
 ### Developed by Jangala Venkat Sai
 
+👨‍💻 Developed by [Jangala Venkat Sai](https://github.com/JangalaVenkatSai)
 
 
 
