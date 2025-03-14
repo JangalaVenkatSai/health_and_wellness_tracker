@@ -1,4 +1,4 @@
-# Learning Management System
+# Health and Wellness Tracker
 ### Developed by Jangala Venkat Sai
 
 
