@@ -1,3 +1,11 @@
+# Learning Management System
+### Developed by Jangala Venkat Sai
+
+
+
+
+
+
 # health_and_wellness_tracker
 
 ![image](https://github.com/user-attachments/assets/0c3621a3-583b-4ccb-8042-0fffb2981db1)
